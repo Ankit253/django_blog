@@ -1,5 +1,5 @@
 # django_blog
-http://ankit253.pythonanywhere.com/
+[Give it a read](http://ankit253.pythonanywhere.com/)
 
 Build a blog application with django allowing users to create, read, edit and delete posts.
 <br/>
